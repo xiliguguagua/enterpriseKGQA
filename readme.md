@@ -2,7 +2,7 @@
 
 - 通过Python和图数据库Neo4j实现的有关企业知识的问答系统，该问答系统可以根据输入抽取实体与关系，将结果链接到数据库中对象。根据已知信息构造查询四元组，根据四元组与数据库进行交互搜索问题的答案
 - 提供有关企业信息，行业信息，企业高管，产品及产品、行业间产业链信息查询等功能
-- demo：![image-20220519224604511](.\pic\image-20220519224604511.png)
+- demo：![image-20220519224604511](https://github.com/xiliguguagua/enterpriseKGQA/blob/main/pic/image-20220519224604511.png)
 
 ### 所需环境
 
@@ -58,7 +58,7 @@ enterpriseKGQA:.
 
   数据库构建完成
 
-  ![QQ图片20220507111550](.\pic\QQ图片20220507111550.png)
+  ![QQ图片20220507111550](https://github.com/xiliguguagua/enterpriseKGQA/blob/main/pic/QQ%E5%9B%BE%E7%89%8720220507111550.png)
 
 - 进行问答
 
