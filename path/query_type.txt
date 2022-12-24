@@ -1,0 +1,16 @@
+Company_上级行业.+_Company
+Company_上级行业.-_Company
+Company_上级行业.+
+Company_上级行业.-
+Company_所属行业.0,上级行业.+_Company
+Company_所属行业.0,上级行业.-_Company
+Company_主营产品.0,上游材料.+_Product
+Company_主营产品.0,上游材料.-_Product
+Industry_上级行业.+_Company
+Industry_上级行业.-_Company
+Product_上游材料.+_Company
+Product_上游材料.-_Company
+Product_上级行业.+_Product
+Product_上级行业.-_Product
+Person_持股.0,主营产品.0
+Person_持股.0,所属行业.0
